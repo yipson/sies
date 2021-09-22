@@ -1,0 +1,3 @@
+Soucion PRUEBA TECNICA - SIESA
+
+1. En la funcion "metodoQueHaceAlgo", si enviamos como parametro el numero 5 se retornara el numero 8 ya que entra en un loop hasta que cada uno de los numero operados sea menor a 3 para poder realizar la multiplicacion

@@ -1,0 +1,1 @@
+Se uso java 1.8 y maven para poder lograr la ejecucion de la api
